@@ -198,10 +198,4 @@ For production, consider using a hosted LLM (OpenAI) to reduce model size and la
 
 ---
 
-## 📄 License
 
-This project is developed for educational purposes as part of a technical assessment.
-
----
-
-*Built with ❤️ using Flask, PyMuPDF, and Hugging Face Transformers*
