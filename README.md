@@ -188,14 +188,6 @@ For production, consider using a hosted LLM (OpenAI) to reduce model size and la
 
 ---
 
-## 👨‍💻 Author
 
-- **Name:** Anurag Yadav
-- **Roll Number:** 2201641530040
-- **Branch:** CSE AIML
-- **Assignment:** Document Summary Assistant - Assignment 3
-- **Email:** anuragyadavatwork@gmail.com
-
----
 
 
