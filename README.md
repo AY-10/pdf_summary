@@ -152,15 +152,6 @@ docker run -p 5000:5000 ai-document-summary
 
 ---
 
-## 👨‍💻 Author
-
-**Anurag Yadav**  
-📧 anuragyadavatwork@gmail.com  
-🔗 https://linkedin.com/in/ay10  
-💻 https://github.com/AY-10  
-
----
-
 ## ⭐ If you like this project
 
 Give it a star ⭐ — it helps and motivates further improvements!
